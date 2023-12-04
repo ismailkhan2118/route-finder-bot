@@ -1,6 +1,6 @@
 # route-finder-bot
 
-## This bot (optimal route finder) has been built as a minor project at my university using C language (arduino)
+## This bot (optimal route finder) has been built as a minor project at my university using C, C++ language (arduino)
 
 #### The bot is built with: ATmega328P Microcontroller Arduino UNO, Motor Driver L293D, DC Motors, 5 IR Sensor Array with Obstacle and Bump Sensor, 5V Lead Acid battery
 
